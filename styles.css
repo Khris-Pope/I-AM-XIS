@@ -49,14 +49,14 @@
 
 html {
    font-size: 62.5%;
-   text-size-adjust: none;
    letter-spacing: normal;
    scroll-behavior: smooth;
    scroll-padding-top: 7.5rem;
-   -webkit-text-size-adjust: none;
 }
 
 body {
+   text-size-adjust: 100%;
+   -webkit-text-size-adjust: 100%;
    font-weight: 400;
    line-height: 1.5;
    color: var(--text-color);
