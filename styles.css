@@ -1384,10 +1384,6 @@ footer {
    .legal-grid-content-2 {
       display: block;
    }
-
-   .shop-g-c {
-      margin-bottom: 3.5rem;
-   }
 }
 
 @media (max-width: 992px) {
@@ -1565,6 +1561,10 @@ footer {
 
    .shop-guarantee-grid {
       display: block;
+   }
+   
+   .shop-g-c {
+      margin-bottom: 5.5rem;
    }
 
    .input-group {
