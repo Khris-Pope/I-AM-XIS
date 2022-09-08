@@ -284,7 +284,7 @@ header {
 /* HERO STYLES & LINK STYLES */
 .title {
    text-align: center;
-   margin-top: 10rem;
+   margin-top: 6.5rem;
 }
 
 .other-back-title {
@@ -371,19 +371,16 @@ header {
 }
 
 .hero-2 {
-   margin-top: 5rem;
    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
       url("img/kit.png");
 }
 
 .newsletter {
-   margin-top: 5rem;
    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
       url("img/newsletter.png");
 }
 
 .hero-shop {
-   margin-top: 5rem;
    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
       url("img/hero-shop.png");
 }
@@ -394,7 +391,6 @@ header {
 }
 
 .iamxis-business {
-   margin-top: 5rem;
    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
       url("img/iamxis-business.jpg");
 }
@@ -592,7 +588,7 @@ input[type="search"]::-webkit-search-cancel-button {
 } */
 
 .g-bottom {
-   margin-bottom: 6.25rem;
+   margin-bottom: 2.25rem;
 }
 
 /* ABOUT US GRID VARIABLES */
@@ -1378,7 +1374,7 @@ footer {
    }
 
    .title {
-      margin-top: 8.5rem;
+      margin-top: 7rem;
    }
 
    .legal-grid-content {
