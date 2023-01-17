@@ -26,7 +26,8 @@
 
    --font-size: 1.725rem;
    --mobile-font-size: 1.6rem;
-   --title-font-family: "Playfair Display", serif;
+   --logo-font-family: "Playfair Display", serif;
+   --title-font-family: "Inter", sans-erif;
    --body-font-family: "Inter", sans-serif;
    --second-body-font-family: "Roboto Mono", monospace;
 
@@ -224,7 +225,7 @@ header {
    align-items: center;
    display: inline-flex;
    letter-spacing: 0.1875rem;
-   font-family: var(--title-font-family);
+   font-family: var(--logo-font-family);
 }
 
 .nav-link-search {
@@ -560,7 +561,7 @@ input[type="search"]::-webkit-search-cancel-button {
 
 .search-input::placeholder {
    font-style: italic;
-   font-family: var(--title-font-family);
+   font-family: var(--body-font-family);
 }
 
 /* SHOP PAGE HEADINGS & ITEMS IN HOMEPAGE*/
