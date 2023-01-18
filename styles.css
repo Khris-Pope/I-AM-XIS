@@ -513,7 +513,6 @@ header {
 }
 
 .search-quote {
-   font-style: italic;
    font-size: 2.65rem;
 }
 
@@ -525,7 +524,6 @@ header {
    margin-bottom: 3rem;
    border-bottom: 1px solid var(--border-color);
    font-family: var(--title-font-family);
-   font-style: italic;
    transition: opacity 0.5s;
    transition: 0.3s;
 }
@@ -560,7 +558,6 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 
 .search-input::placeholder {
-   font-style: italic;
    font-family: var(--body-font-family);
 }
 
