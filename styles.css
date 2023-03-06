@@ -768,7 +768,7 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 
 /* I AM XIS BUSINESS PAGE */
-.bus-grid-content {
+/*.bus-grid-content {
    display: grid;
    gap: 5rem;
    grid-template-columns: repeat(2, 1fr);
@@ -827,7 +827,7 @@ input[type="search"]::-webkit-search-cancel-button {
 
 .price-btn:hover {
    opacity: 0.7;
-}
+}*/
 
 /* CONTACT STYLES */
 .contact-us {
