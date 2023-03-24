@@ -792,7 +792,7 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 
 .iamxis-bus-head {
-   font-size: 2.935rem;
+   font-size: 3rem;
    text-align: left;
    font-weight: 500;
    margin: 0;
@@ -1027,6 +1027,7 @@ footer {
    display: block;
    flex-direction: column;
    padding-top: 2.125rem;
+   padding-bottom: 0rem;
    font-size: 1.35rem;
    align-items: center;
    justify-content: center;
