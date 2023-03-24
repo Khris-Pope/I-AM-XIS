@@ -67,6 +67,7 @@ body {
    font-variant-numeric: lining-nums;
    -webkit-text-size-adjust: 100%;
    text-size-adjust: 100%;
+   text-rendering: optimizeLegibility;
 }
 
 h1 {
