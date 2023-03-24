@@ -961,6 +961,10 @@ input[type="search"]::-webkit-search-cancel-button {
    text-align: center;
 }
 
+.social-link{
+   display: none;
+}
+
 /* FOOTER */
 footer {
    display: block;
