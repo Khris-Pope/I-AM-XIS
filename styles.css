@@ -1027,7 +1027,7 @@ footer {
    display: block;
    flex-direction: column;
    padding-top: 2.125rem;
-   padding-bottom: 0rem;
+   padding-bottom: 1rem;
    font-size: 1.35rem;
    align-items: center;
    justify-content: center;
