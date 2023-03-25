@@ -592,7 +592,6 @@ input[type="search"]::-webkit-search-cancel-button {
 
 /* ABOUT US GRID VARIABLES */
 .about-us-col{
-   background-color: #f3f1ee;
    margin-top: 5rem;
    margin-bottom: 5rem;
 }
@@ -603,9 +602,6 @@ input[type="search"]::-webkit-search-cancel-button {
    gap: 3rem;
 }
 
-.about-us-commit-col{
-   background-color: #f5efeb;
-}
 
 .about-us-commit{
    display: grid;
