@@ -1624,6 +1624,18 @@ footer {
    .about-us-commit{
       display: block;
    }
+   
+   .accordion{
+      font-size: 1.8rem;
+   }
+
+   .panel{
+      font-size: 1.6rem;
+   }
+
+   .panel h3{
+      font-size: 1.735rem;
+   }
 
    .footer-more-ways {
       display: block;
