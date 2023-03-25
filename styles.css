@@ -594,6 +594,7 @@ input[type="search"]::-webkit-search-cancel-button {
 .about-us-col{
    margin-top: 5rem;
    margin-bottom: 0rem;
+   padding-bottom: 0rem;
 }
 
 .about-us-col-info{
